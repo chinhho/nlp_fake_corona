@@ -2,4 +2,9 @@
 
 Chinh Ho
 
-- Application Used
+#Data Scinetist Tools Used:
+- Jupyter Notebook
+- Pandas
+- Numpy
+- Keras
+- Naive Bayes
