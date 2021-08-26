@@ -8,3 +8,4 @@ Chinh Ho
 - Numpy
 - Keras
 - Naive Bayes
+- Wordcloud
