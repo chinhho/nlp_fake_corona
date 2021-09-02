@@ -9,5 +9,9 @@ Chinh Ho
 - Keras
 - Naive Bayes
 - Wordcloud
+- SKlearn
+- nltk
+- Gensim
 
 #EDA
+
