@@ -2,7 +2,7 @@
 
 Chinh Ho
 
-#Data Scinetist Tools Used
+#Data Scinetist Tools Used:
 - Jupyter Notebook
 - Pandas
 - Numpy
