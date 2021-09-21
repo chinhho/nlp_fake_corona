@@ -31,3 +31,9 @@ Chinh Ho
 
 ![Screen Shot 2021-09-02 at 5 37 03 PM](https://user-images.githubusercontent.com/72099238/131924883-e2bc8dbc-f1a8-41ca-a91f-ec22d403f2fa.png)
 
+# Deep Learning with Tensorflow
+
+- Accuracy 0.98
+- Val_accuracy 0.93
+
+
