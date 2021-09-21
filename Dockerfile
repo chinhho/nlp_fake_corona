@@ -1,4 +1,4 @@
-#FROM python:3.8.3-slim
+#FROM python:3.8.3-sli
 #FROM ubuntu:18.04
 FROM continuumio/miniconda3
 COPY . /app
