@@ -1,4 +1,4 @@
-pandas
+panda
 numpy == 1.19.5
 nltk == 3.4.5
 sklearn
